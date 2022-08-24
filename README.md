@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThomasThannheiser
-- 👀 I’m interested in mathemtics, chess, programming
+- 👀 I’m interested in mathematics, chess, programming
 - 🌱 I’m currently learning Haskell, Elm, functional programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
